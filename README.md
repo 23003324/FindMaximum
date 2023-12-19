@@ -60,11 +60,12 @@ def max_marks(list1):
 
 
 ## Output:
+ Program to mark the maximum of marks using the list method sort
 ![Alt text](img/output1.png)
-
+Program to find the maximum marks using list method max()
 ![Alt text](img/output2.png)
 
-
+Program to the maximum marks without using builtin functions
 ![Alt text](img/output4.png)
 
 
